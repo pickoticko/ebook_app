@@ -1,0 +1,8 @@
+io/flutter/plugins/firebase/appcheck/TokenChannelStreamHandler.java
+ io.flutter.plugins.firebase.appcheck.TokenChannelStreamHandler
+io/flutter/plugins/firebase/appcheck/FlutterFirebaseAppCheckPlugin.java
+ io.flutter.plugins.firebase.appcheck.FlutterFirebaseAppCheckPlugin
+io/flutter/plugins/firebase/appcheck/BuildConfig.java
+ io.flutter.plugins.firebase.appcheck.BuildConfig
+io/flutter/plugins/firebase/appcheck/FlutterFirebaseAppRegistrar.java
+ io.flutter.plugins.firebase.appcheck.FlutterFirebaseAppRegistrar

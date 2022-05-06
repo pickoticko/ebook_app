@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760266854789",
+    "project_id": "ebook-university-app",
+    "storage_bucket": "ebook-university-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760266854789:android:fd3a27a881f8f6082174ec",
+        "android_client_info": {
+          "package_name": "com.circulationperidical.ebook_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760266854789-jl3a2g5i558nhgle6q91ljppr47lj831.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl1BMz-poihmRlvzOjCP8f9RItQzLTKuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760266854789-jl3a2g5i558nhgle6q91ljppr47lj831.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
